@@ -1,9 +1,20 @@
 <h1 align="center">Christer Warén</h1>
 
 <p align="center">
-  <a href="https://christerwaren.fi">Website</a>  •
-  <a href="https://twitter.com/cwchristerw">Twitter</a>  •
-  <a href="https://instagram.com">Instagram</a>
+  <a href="https://christerwaren.fi">https://christerwaren.fi</a>
+</p>
+
+<p align="center">
+  <b>Contact Me</b> <br>
+  <a href="tel:+358 45 842 0860">+358 45 842 0860</a> <br>
+  cwchristerw@gmail.com
+</p>
+
+<p align="center">
+  <b>Social Media</b> <br>
+  <a href="https://twitter.com/cwchristerw">Twitter</a> •
+  <a href="https://instagram.com/cwchristerw">Instagram</a> •
+  <a href="https://www.linkedin.com/in/cwchristerw">LinkedIn</a>
 </p>
 
 <p align="center">
