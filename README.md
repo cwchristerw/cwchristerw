@@ -6,9 +6,16 @@
   <a href="https://instagram.com">Instagram</a>
 </p>
 
-
+<p align="center">
+  <b>Translations</b> <br>
+  🇷🇺 Кристэр Варэн <br>
+  🇯🇵 クリステル • ワレン <br>
+</p>
 
 <!--
+Useful Resources:
+  - Flag List: https://emojipedia.org/flags/
+
 **cwchristerw/cwchristerw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
