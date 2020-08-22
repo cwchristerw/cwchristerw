@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Christer Warén</h1>
+
+<p align="center">
+  <a href="https://christerwaren.fi">Website</a>  •
+  <a href="https://twitter.com/cwchristerw">Twitter</a>  •
+  <a href="https://instagram.com">Instagram</a>
+</p>
+
+
 
 <!--
 **cwchristerw/cwchristerw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
