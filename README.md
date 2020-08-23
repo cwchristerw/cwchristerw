@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gitea.cwinfo.org">More repos available in CWINFO Gitea</a>
+  <a href="https://gitea.cwinfo.org/cwchristerw">More repos available in CWINFO Gitea</a>
 </p>
 
 <!--
