@@ -23,6 +23,10 @@
   🇯🇵 クリステル • ワレン <br>
 </p>
 
+<p align="center">
+  <a href="https://gitea.cwinfo.org">More repos available in CWINFO Gitea</a>
+</p>
+
 <!--
 Useful Resources:
   - Flag List: https://emojipedia.org/flags/
