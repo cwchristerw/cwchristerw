@@ -24,7 +24,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.cwinfo.net/cwchristerw">More repos available in CWINFO Gitea</a>
+  <b>More repos available in</b> <br>
+  <a href="https://git.cwinfo.net/cwchristerw">CWINFO Git</a> •
+  <a href="https://gitlab.com/cwchristerw">Gitlab</a>
 </p>
 
 <!--
