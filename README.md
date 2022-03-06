@@ -24,6 +24,12 @@
 </p>
 
 <p align="center">
+  <b>SSH Keys</b> <br>
+  RSA: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8MmEPCfNH8RylXfAaXZapXrVcilaDG0lLAwOHqEBYKSpYN3Ug/7oesd/jBu3InKgwBRG2V0DrLL6gHiP24A2kqNmYRsN2eiBil+5eeTjpgyrPZa7RSVnJA02qQSLUwvkRM+DjI8b6d4U0hbIxoHOFyG9KRfxrQw0PknsHMM9FXmbkl8lbAndTRqFwIRi1bCA0T4i/aXttpISvsGvgMA5FD73FBzSZDAD6pr1fN/egG6mWau9rDVvnO0NTvjF8Znit5pMKoKZdTA3b3QO8+8+1dSL8eUmMPs/y8MOOkuzkNaNnbrH8YIrf31KCQhnUxaAq6FHnztnprl4kTzaHItqD <br>
+  ED25519: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKgDLhoNOVBONIbfy9cajn/+IAN0Jv3tDsXFvsA6XMAK
+</p>
+
+<p align="center">
   <b>More repos available in</b> <br>
   <a href="https://git.cwinfo.net/cwchristerw">CWINFO Git</a> •
   <a href="https://gitlab.com/cwchristerw">Gitlab</a>
