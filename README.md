@@ -25,6 +25,8 @@
 
 <p align="center">
   <b>SSH Keys</b>
+  <a href="https://christerwaren.fi/ssh-ed25519.pub">ED25519</a> •
+  <a href="https://christerwaren.fi/ssh-rsa.pub">RSA</a>
 </p>
   
 </p>
@@ -32,23 +34,6 @@
 <p align="center">
   <b>More repos available in</b> <br>
   <a href="https://git.cwinfo.net/cwchristerw">CWINFO Git</a> •
-  <a href="https://gitlab.com/cwchristerw">Gitlab</a>
+  <a href="https://gitlab.com/cwchristerw">Gitlab</a> •
+  <a href="https://git.waren.io/cwchristerw">Warén Git ⚠️</a>
 </p>
-
-<!--
-Useful Resources:
-  - Flag List: https://emojipedia.org/flags/
-
-**cwchristerw/cwchristerw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
