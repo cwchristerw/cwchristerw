@@ -25,8 +25,8 @@
 
 <p align="center">
   <b>SSH Keys</b> <br>
-  <a href="https://christerwaren.fi/ssh-ed25519.pub">ED25519</a> •
-  <a href="https://christerwaren.fi/ssh-rsa.pub">RSA</a>
+  <a href="https://christerwaren.fi/files/ssh-ed25519.pub">ED25519</a> •
+  <a href="https://christerwaren.fi/files/ssh-rsa.pub">RSA</a>
 </p>
   
 </p>
