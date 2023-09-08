@@ -35,5 +35,5 @@
   <b>More repos available in</b> <br>
   <a href="https://git.cwinfo.net/cwchristerw">CWINFO Git</a> •
   <a href="https://gitlab.com/cwchristerw">Gitlab</a> •
-  <a href="https://git.waren.io/cwchristerw">Warén Git ⚠️</a>
+  <a href="https://git.waren.io/cwchristerw">Warén Git</a>
 </p>
