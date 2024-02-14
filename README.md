@@ -28,7 +28,28 @@
   <a href="https://christerwaren.fi/files/ssh-ed25519.pub">ED25519</a> •
   <a href="https://christerwaren.fi/files/ssh-rsa.pub">RSA</a>
 </p>
-  
+
+<p align="center">
+  <b>Crypto Wallets</b> <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/bitcoin-light.svg">
+    <img src="./assets/icons/bitcoin.svg" width="15px" height="15px">
+  </picture>
+  Bitcoin - BTC<br>
+  bc1qlqz08vm7xgl7sff006z32zarrtyc26exum7z5c<br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/ethereum-light.svg">
+    <img src="./assets/icons/ethereum.svg" width="15px" height="15px">
+  </picture>
+  Ethereum - ETH<br>
+  0xe14c0d40f6b214a75cc36c063c6ad36f3947ea41<br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/monero-light.svg">
+    <img src="./assets/icons/monero.svg" width="15px" height="15px">
+  </picture>
+  Monero - XMR<br>
+  42jGtAeArpkU79SGv1ZSanSsZ3rNwkDHa9waAbcYEdarD8fF<br>
+  T9g2XD3c8endRdK6FLhL7E1QP7ueJ5QQZahRsgYV8Ggohq4
 </p>
 
 <p align="center">
