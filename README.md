@@ -12,9 +12,21 @@
 
 <p align="center">
   <b>Social Media</b> <br>
-  <a href="https://twitter.com/cwchristerw">Twitter</a> •
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/instagram-light.svg">
+    <img src="./assets/icons/instagram.svg" width="15px" height="15px">
+  </picture>
   <a href="https://instagram.com/cwchristerw">Instagram</a> •
-  <a href="https://www.linkedin.com/in/cwchristerw">LinkedIn</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/linkedin-light.svg">
+    <img src="./assets/icons/linkedin.svg" width="15px" height="15px">
+  </picture>
+  <a href="https://www.linkedin.com/in/cwchristerw">LinkedIn</a> •
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/youtube-light.svg">
+    <img src="./assets/icons/youtube.svg" width="15px" height="15px">
+  </picture>
+  <a href="https://youtube.com/@cwchristerw-">Youtube</a>
 </p>
 
 <p align="center">
@@ -48,13 +60,16 @@
     <img src="./assets/icons/monero.svg" width="15px" height="15px">
   </picture>
   Monero - XMR<br>
-  42jGtAeArpkU79SGv1ZSanSsZ3rNwkDHa9waAbcYEdarD8fF<br>
-  T9g2XD3c8endRdK6FLhL7E1QP7ueJ5QQZahRsgYV8Ggohq4
+  42jGtAeArpkU79SGv1ZSanSsZ3rNwkDH<br>a9waAbcYEdarD8fFT9g2XD3c8endRdK6<br>FLhL7E1QP7ueJ5QQZahRsgYV8Ggohq4
 </p>
 
 <p align="center">
   <b>More repos available in</b> <br>
   <a href="https://git.cwinfo.net/cwchristerw">CWINFO Git</a> •
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/gitlab-light.svg">
+    <img src="./assets/icons/gitlab.svg" width="15px" height="15px">
+  </picture>
   <a href="https://gitlab.com/cwchristerw">Gitlab</a> •
   <a href="https://git.waren.io/cwchristerw">Warén Git</a>
 </p>
