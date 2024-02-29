@@ -56,6 +56,12 @@
   Ethereum - ETH<br>
   0xe14c0d40f6b214a75cc36c063c6ad36f3947ea41<br>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/litecoin-light.svg">
+    <img src="./assets/icons/litecoin.svg" width="15px" height="15px">
+  </picture>
+  Litecoin - LTC<br>
+  ltc1q0pk8gn4szdc984llafnju6259534753sm3cxtx<br>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/monero-light.svg">
     <img src="./assets/icons/monero.svg" width="15px" height="15px">
   </picture>
