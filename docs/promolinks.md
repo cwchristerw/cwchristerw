@@ -8,7 +8,7 @@
     DigitalOcean
 </h2>
 
-Receive $200 in cloud credit to test their products for 60 days.
+Receive $200 in cloud credit to test their products for 60 days.<br>
 <a href="https://m.do.co/c/4248d53011c8">Register Now</a>
 
 <h2 id="hetzner">
@@ -19,5 +19,5 @@ Receive $200 in cloud credit to test their products for 60 days.
     Hetzner
 </h2>
 
-Receive 20€ in cloud credits.
+Receive 20€ in cloud credits.<br>
 <a href="https://hetzner.cloud/?ref=w2QMbx2s3c3h">Register Now</a>
