@@ -67,6 +67,21 @@
 </div>
 
 <div align="center">
+  <h3>Promolinks</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/digitalocean-light.svg">
+    <img src="./assets/icons/digitalocean.svg" width="15px" height="15px">
+  </picture>
+  <a href="https://m.do.co/c/4248d53011c8">DigitalOcean</a> /
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/hetzner-light.svg">
+    <img src="./assets/icons/hetzner.svg" width="15px" height="15px">
+  </picture>
+  <a href=="https://hetzner.cloud/?ref=w2QMbx2s3c3h">Hetzner Cloud</a><br>
+  <a href="https://github.com/cwchristerw/cwchristerw/blob/master/docs/promolinks.md">Read More</a>
+</div>
+
+<div align="center">
   <h3>More repos available in</h3>
   <a href="https://git.cwinfo.net/cwchristerw">CWINFO Git</a> /
   <picture>
