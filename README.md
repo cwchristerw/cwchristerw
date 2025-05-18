@@ -72,13 +72,17 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/digitalocean-light.svg">
     <img src="./assets/icons/digitalocean.svg" width="15px" height="15px">
   </picture>
-  <a href="https://m.do.co/c/4248d53011c8">DigitalOcean</a> /
+  DigitalOcean<br>
+  Receive $200 in cloud credit to test their products for 60 days.<br>
+  <a href="https://m.do.co/c/4248d53011c8">Register Now</a><br><br>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/hetzner-light.svg">
     <img src="./assets/icons/hetzner.svg" width="15px" height="15px">
   </picture>
-  <a href="https://hetzner.cloud/?ref=w2QMbx2s3c3h">Hetzner Cloud</a><br>
-  <a href="https://github.com/cwchristerw/cwchristerw/blob/master/docs/promolinks.md">Read More</a>
+  Hetzner Cloud<br>
+  Receive 20€ in cloud credits.<br>
+  <a href="https://hetzner.cloud/?ref=w2QMbx2s3c3h">Register Now</a>
 </div>
 
 <div align="center">
