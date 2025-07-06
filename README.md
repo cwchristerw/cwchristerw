@@ -72,7 +72,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/digitalocean-light.svg">
     <img src="./assets/icons/digitalocean.svg" width="15px" height="15px">
   </picture>
-  DigitalOcean<br>
+  <strong>DigitalOcean</strong><br>
   Receive $200 in cloud credit to test their products for 60 days.<br>
   <a href="https://m.do.co/c/4248d53011c8">Register Now</a><br><br>
 
@@ -80,7 +80,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dynadot-light.svg">
     <img src="./assets/icons/dynadot.svg" width="15px" height="15px">
   </picture>
-  Dynadot<br>
+  <strong>Dynadot</strong><br>
   Receive 4,5€ in account credit.<br>
   <a href="https://dynadot.com?sM7K8u7m6Z7pBo">Register Now</a><br><br>
 
@@ -88,7 +88,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/hetzner-light.svg">
     <img src="./assets/icons/hetzner.svg" width="15px" height="15px">
   </picture>
-  Hetzner Cloud<br>
+  <strong>Hetzner Cloud</strong><br>
   Receive 20€ in cloud credits.<br>
   <a href="https://hetzner.cloud/?ref=w2QMbx2s3c3h">Register Now</a>
 </div>
