@@ -77,6 +77,14 @@
   <a href="https://m.do.co/c/4248d53011c8">Register Now</a><br><br>
 
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dynadot-light.svg">
+    <img src="./assets/icons/dynadot.svg" width="15px" height="15px">
+  </picture>
+  Dynadot<br>
+  Receive 4,5€ in account credit.<br>
+  <a href="https://dynadot.com?sM7K8u7m6Z7pBo">Register Now</a><br><br>
+
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/hetzner-light.svg">
     <img src="./assets/icons/hetzner.svg" width="15px" height="15px">
   </picture>
