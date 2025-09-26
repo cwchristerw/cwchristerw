@@ -90,7 +90,16 @@
   </picture>
   <strong>Hetzner Cloud</strong><br>
   Receive 20€ in cloud credits.<br>
-  <a href="https://hetzner.cloud/?ref=w2QMbx2s3c3h">Register Now</a>
+  <a href="https://hetzner.cloud/?ref=w2QMbx2s3c3h">Register Now</a><br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/ukkofi-light.svg">
+    <img src="./assets/icons/ukkofi.svg" width="15px" height="15px">
+  </picture>
+  <strong>Ukko.fi</strong><br>
+  After you have invoiced €300 (excluding VAT) and received payment,<br>
+  you can invoice €750 without a service fee.<br>
+  <a href="https://app.ukko.fi/register?code=28419">Register Now</a>
 </div>
 
 <div align="center">
