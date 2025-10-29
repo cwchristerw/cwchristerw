@@ -104,7 +104,6 @@
 
 <div align="center">
   <h3>More repos available in</h3>
-  <a href="https://git.cwinfo.net/cwchristerw">CWINFO Git</a> /
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/gitlab-light.svg">
     <img src="./assets/icons/gitlab.svg" width="15px" height="15px">
